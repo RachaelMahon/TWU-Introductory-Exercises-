@@ -7,6 +7,9 @@ public class Run_Exercises {
         Exercise_1 run_exercise_1 = new Exercise_1();
         run_exercise_1.Run_Exercise_1();
 
+        Draw_a_horizontal_line run_exercise_2 = new Draw_a_horizontal_line();
+        run_exercise_2.run_draw_a_horizontal_line_exercise(10);
+
         Draw_a_vertical_line run_exercise_3 = new Draw_a_vertical_line();
         run_exercise_3.run_draw_a_vertical_line_exercise(8);
 

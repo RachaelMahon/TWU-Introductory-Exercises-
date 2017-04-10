@@ -3,7 +3,6 @@
  *
  */
 
-
 public class Draw_a_vertical_line {
     public static void run_draw_a_vertical_line_exercise(Integer n) {
         while (n > 0) {
