@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99122dca-39b7-4c51-a8c0-1a1e4c324554" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TWU/Draw_a_vertical_line.class" afterPath="$PROJECT_DIR$/out/production/TWU/Draw_a_vertical_line.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TWU/Run_Exercises.class" afterPath="$PROJECT_DIR$/out/production/TWU/Run_Exercises.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Draw_a_vertical_line.java" afterPath="$PROJECT_DIR$/src/Draw_a_vertical_line.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Run_Exercises.java" afterPath="$PROJECT_DIR$/src/Run_Exercises.java" />
-    </list>
+    <list default="true" id="99122dca-39b7-4c51-a8c0-1a1e4c324554" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -95,8 +89,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="43" />
+    <option name="x" value="33" />
+    <option name="y" value="198" />
     <option name="width" value="1400" />
     <option name="height" value="757" />
   </component>
@@ -429,7 +423,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="43" width="1400" height="757" extended-state="0" />
+    <frame x="33" y="198" width="1400" height="757" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
